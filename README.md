@@ -1,6 +1,9 @@
 
 ### Olá meu nome é Lucas Antônio, sou apaixonado por tecnologia da informação, aperfeiçoando meus conhecimentos.👋
+### Meu repositorio esta inteiro no Driver
+[![GoogleDriver](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://drive.google.com/drive/folders/1HgeOUxDEUhYRjVWS675o07jcy-2oKu5V?usp=sharing)
 
+### Redes sociais para contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ant%C3%B4nio-2a4892237/)
 [![Instgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcs_asm/)
 
